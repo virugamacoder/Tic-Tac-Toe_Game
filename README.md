@@ -1,3 +1,6 @@
+Deployed Version:
+You can play the Tic-Tac-Toe game online by visiting the following URL: [Visit the Tic-Tac-Toe Game](https://tic-tac-toe-game-91fd3.web.app/)
+
 # Tic-Tac-Toe-Game
 
 Tic-Tac-Toe is a classic two-player game where players take turns placing their marks (X or O) on a 3x3 grid. The objective of the game is to get three of your marks in a row, either horizontally, vertically, or diagonally. This repository contains a simple implementation of the Tic-Tac-Toe game in React JS.
